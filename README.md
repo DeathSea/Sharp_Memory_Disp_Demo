@@ -1,14 +1,17 @@
 # A demo for Sharp Memory LCD 夏普memoryLCD的测试程序 #
 A demonstration to display something in Sharp Memory LCD 
-fit to : models :LS027B7DH01
+fit to : models :LS027B7DH01<br/>
 输出图片到夏普memory LCD的程序，支持型号：LS027B7DH01
 
 # External Circuit Connect LCD周边连线 #
-according to the official document, we need two 0.1uf ceramic capacitor, one 1uf ceramic capacitor.
-按照官方文档，需要两个0.1uf电容，一个1uf电容
+according to the official document, we need two 0.1uf ceramic capacitor, one 1uf ceramic capacitor.<br/>
+按照官方文档，需要两个0.1uf电容，一个1uf电容<br/>
+schematic:
 ![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/external_circuit_schematic.jpg)<br/>
-![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/external_circuit_1.jpg)<br/>
-![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/external_circuit_2.jpg)<br/>
+connect1:
+![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/external_circuit_1.JPG)<br/>
+connect2:
+![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/external_circuit_2.JPG)<br/>
 
 # stm 32 pin connect stm32的pin连线 #
 Schematic:
@@ -35,15 +38,16 @@ connect:
 ![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/arduino_connect.JPG)<br/>
 
 # result结果展示 #
-![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/result.JPG)
+![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/result.JPG)<br/>
 stm 32 result
-![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/stm32_result.JPG)
+![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/stm32_result.jpg)<br/>
 arduino result
-![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/arduino_result.JPG)
+![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/arduino_result.JPG)<br/>
 
 # picture source #
-[長門](https://www.pixiv.net/artworks/81387746)
+## link ##
+[長門](https://www.pixiv.net/artworks/81387746)<br/>
 source: 
-![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/demo_source.png)
+![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/demo_source.png)<br/>
 black and white:
-![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/demo_black_and_white.wbm)
+![](https://github.com/DeathSea/Sharp_Memory_Disp_Demo/raw/master/picture/demo_black_and_white.wbm)<br/>
